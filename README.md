@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Hélio Junior! 👋
 
-<!--
-**heliojuniordev/heliojuniordev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo ao meu perfil do GitHub! Sou de Fortaleza/CE e atualmente estou em plena transição de carreira, migrando com muita dedicação para a área de tecnologia com foco em **Desenvolvimento Front-end**.
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
+- 🛠️ **Origem Técnica:** Venho da área de eletroeletrônica, o que me deu uma base sólida em pensamento analítico, lógica estruturada e resolução de problemas complexos.
+- 📚 **Estudos Atuais:** Dedicando-me intensamente ao aprendizado de algoritmos, lógica de programação e ao ecossistema moderno de desenvolvimento web.
+- ⚙️ **Diferencial:** Gosto de criar estratégias e resolver problemas técnicos — seja otimizando uma linha de código no VS Code ou fazendo manutenção física e upgrades nos meus próprios equipamentos de hardware para garantir a melhor performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens e Lógica:** Lógica de Programação e Algoritmos
+- **Front-end:** HTML5, CSS3, JavaScript (ES6+)
+- **Ferramentas:** VS Code, Git e GitHub
+
+## 📈 Objetivos
+Meu objetivo inicial é conquistar uma oportunidade como **Desenvolvedor Front-end Júnior**, onde eu possa aplicar minha capacidade analítica, colaborar em equipe e continuar evoluindo diariamente.
