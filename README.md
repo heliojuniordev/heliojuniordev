@@ -8,7 +8,8 @@ Seja bem-vindo ao meu perfil do GitHub! Sou de Fortaleza/CE e atualmente estou e
 - ⚙️ **Diferencial:** Gosto de criar estratégias e resolver problemas técnicos — seja otimizando uma linha de código no VS Code ou fazendo manutenção física e upgrades nos meus próprios equipamentos de hardware para garantir a melhor performance.
 
 ## 🛠️ Tecnologias e Ferramentas
-
+<img src= "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg" alt= "html-logo" width= 40px height= 40px > <img src= "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CSS.svg" alt= "css-logo"
+width= 40px height= 40px > <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/JavaScript.svg" alt= "Js-logo" width= 40px height=40px>
 
 ## 📈 Objetivos
 Meu objetivo inicial é conquistar uma oportunidade como **Desenvolvedor Front-end Júnior**, onde eu possa aplicar minha capacidade analítica, colaborar em equipe e continuar evoluindo diariamente.
