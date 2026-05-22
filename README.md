@@ -19,8 +19,3 @@ Meu objetivo inicial é conquistar uma oportunidade como **Desenvolvedor Front-e
 ## Minhas Redes Sociais:
 
 <a href="https://www.linkedin.com/in/helio-junior-7b01441b7/"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/LinkedIn.svg" alt="link-logo" width= 40px height=40px> </a> <a href="https://www.instagram.com/heliojunior010/"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Instagram.svg" alt="insta-logo" width= 40px height=40px> </a>
-
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heliojuniordev)](https://github.com/anuraghazra/github-readme-stats)
