@@ -13,5 +13,9 @@ width= 40px height= 40px > <img src="https://raw.githubusercontent.com/tandpfun/
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/VSCode-Dark.svg" alt= "vscode-Logo" width= 40px height=40px> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Github-Dark.svg" alt="git-logo" width= 40px height=40px>
 
-## 📈 Objetivos
+## 📈 Objetivos:
 Meu objetivo inicial é conquistar uma oportunidade como **Desenvolvedor Front-end Júnior**, onde eu possa aplicar minha capacidade analítica, colaborar em equipe e continuar evoluindo diariamente.
+
+## Minhas Redes Sociais:
+
+<a href="www.linkedin.com/in/helio-junior-7b01441b7"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/LinkedIn.svg" alt="link-logo" width= 40px height=40px> </a>
