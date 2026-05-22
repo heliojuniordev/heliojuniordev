@@ -1,6 +1,6 @@
 # Olá, eu sou o Hélio Junior! 👋
 
-Seja bem-vindo ao meu perfil do GitHub! Sou de Fortaleza/CE e atualmente estou em plena transição de carreira, migrando com muita dedicação para a área de tecnologia com foco em **Desenvolvimento Front-end**.
+Seja bem-vindo ao meu perfil do GitHub! Sou de Fortaleza/CE e atualmente estou em plena transição de carreira, migrando com muita dedicação para a área de tecnologia com foco em **Desenvolvimento Front-end**. Criando projetos com HTML, CSS e iniciando o aprendizado de JavaScript e React.
 
 ## 🚀 Sobre Mim
 - 🛠️ **Origem Técnica:** Venho da área de eletroeletrônica, o que me deu uma base sólida em pensamento analítico, lógica estruturada e resolução de problemas complexos.
